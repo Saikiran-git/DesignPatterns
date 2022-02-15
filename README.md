@@ -1,3 +1,3 @@
 # DesignPatterns
 
-Examples codes on all design patterns.
+My Learning/Practice/Research codes on all design patterns.
